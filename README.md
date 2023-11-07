@@ -1,5 +1,5 @@
 #Basic NFT Marketplace
-# Sample Hardhat Project
+#Hardhat based Project
 *Login Using MetaMask
 *Openzepplin ERC721 for NFT
 *deploy contract on POLYGON_MUMBAI Testnet
